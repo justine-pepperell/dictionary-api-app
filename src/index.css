@@ -19,17 +19,6 @@ header {
   color: rgb(255, 204, 0);
 }
 
-.button {
-  background-color: rgb(255, 204, 0);
-  border-radius: .3em;
-  margin-left: .5em;
-}
-
-.box {
-  color: black;
-  border-radius: .3em;
-}
-
 p {
   line-height: 1.5em;
 }
