@@ -14,11 +14,20 @@ body {
 
 header {
   font-size: 2em;
+  padding: 1em;
+  background-color: rgb(122, 17, 220);
+  color: rgb(255, 204, 0);
 }
 
-.subheader {
-  padding: 1rem;
-  background-color: rgba(255, 255, 0, 0.667);
+.button {
+  background-color: rgb(255, 204, 0);
+  border-radius: .3em;
+  margin-left: .5em;
+}
+
+.box {
+  color: black;
+  border-radius: .3em;
 }
 
 p {
