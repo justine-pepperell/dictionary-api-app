@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-phoneticsapp-dev-110446-authRole",
+      "UnauthRoleArn": "arn:aws:iam::034556481700:role/amplify-phoneticsapp-dev-110446-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::034556481700:role/amplify-phoneticsapp-dev-110446-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-phoneticsapp-dev-110446-deployment",
+      "UnauthRoleName": "amplify-phoneticsapp-dev-110446-unauthRole",
+      "StackName": "amplify-phoneticsapp-dev-110446",
+      "StackId": "arn:aws:cloudformation:us-east-1:034556481700:stack/amplify-phoneticsapp-dev-110446/888b98c0-607a-11ed-afa3-0e63e6100f63",
+      "AmplifyAppId": "d1imn1mmgbjtyx"
+    }
+  }
+}
